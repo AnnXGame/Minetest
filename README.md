@@ -1,5 +1,6 @@
-﻿This is a fork of the Minetest engine. check https://github.com/minetest/minetest/ to know about it.
-based on Minetest which is developed by a number of contributors from all over the world:https://github.com/minetest/minetest/graphs/contributors
+﻿This is a fork of the Minetest engine. check [Minetest Github](https://github.com/minetest/minetest/) to know about it.
+
+Minetest is developed by a [number of contributors](https://github.com/minetest/minetest/graphs/contributors) from all over the world.
 
 Minetest
 ========
